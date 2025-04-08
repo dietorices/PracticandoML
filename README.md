@@ -3,4 +3,5 @@
 
 **[EDA](https://github.com/dietorices/EDA)** Diferentes ejemplos de Exploratory Data Analysis (EDA) y primeras conclusiones de la naturaleza de los datos.
 
+**[Regresión Lineal](https://github.com/dietorices/RegresionLineal)** Uso de la regresión lineal en la búsqueda de una tendencia de predicción de diferentes fuentes de datos.
 
